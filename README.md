@@ -1,5 +1,5 @@
-### Meu nome é Tarcísio Botelho, seja bem vindo a minha página do GitHub!
-##### My name is Tarcisio Botelho, welcome to my Github profile!
+### Seja bem vindo a minha página do GitHub!
+##### Welcome to my Github profile!
 
 At the moment i am learning the following languages:<br/><br/>
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://b7web.com.br/)
